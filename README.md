@@ -1,11 +1,9 @@
 ### Hi there I am Shrushti Khairkar , I am -
 
 - A Sophomore at NIT Trichy
-- Python Geek
-- A UI/UX Designer
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=asthana001)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asthana001)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shrushti24)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shrushti24)
 
 <!--
 **shrushti24/shrushti24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
